@@ -1,10 +1,10 @@
-# Analog Clock with Dynamic Wallpaper
+# Analog Clock
 
-Welcome to the **Analog Clock with Dynamic Wallpaper** project! This web-based analog clock combines elegance with functionality, featuring dynamic wallpapers and realistic clock hands. Built using HTML, CSS, and JavaScript, this project showcases smooth transitions and interactive elements.
+Welcome to the **Analog Clock** project! This web-based analog clock combines elegance with functionality, featuring dynamic wallpapers and realistic clock hands. Built using HTML, CSS, and JavaScript, this project showcases smooth transitions and interactive elements.
 
-![Analog Clock](images/clock1.png)  <!-- Replace with a preview image -->
+![Analog Clock](images/preview.png)  <!-- Replace with a preview image -->
 
-## Features
+## Features 
 
 - **🎨 Dynamic Wallpaper Change**: Seamlessly switch between various clock backgrounds with a single click. Enjoy a smooth transition effect that enhances the visual experience.
   
@@ -13,6 +13,8 @@ Welcome to the **Analog Clock with Dynamic Wallpaper** project! This web-based a
 - **✨ Enhanced Animations**: Experience fluid transitions and easing effects for the clock hands. The clock also features a subtle pulse effect upon interaction, adding a dynamic touch.
 
 - **📱 Responsive Design**: The layout adapts to different screen sizes, ensuring that the clock and button are well-aligned and visible on both large and small screens.
+
+- **🔊 Analog Watch Sound Effect**: Hear the gentle ticking of an analog clock, adding an auditory touch to the visual experience. The sound effect plays in sync with the clock's movement, enhancing realism.
 
 - **🔲 Visual Effects**: The button is designed to blend seamlessly with the background, featuring realistic depth and shadow effects to enhance visibility and interaction.
 
