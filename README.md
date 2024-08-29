@@ -37,7 +37,7 @@ Welcome to the **Analog Clock** project! This web-based analog clock combines el
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/analog-clock-with-dynamic-wallpaper.git
+   git clone https://github.com/probeen007/Analog-clock.git
 
 ## Contributing
 
